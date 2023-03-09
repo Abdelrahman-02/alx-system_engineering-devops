@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxr--r--
+chmod -rwx--x--x /0x01-shell_permissions/hello
